@@ -1,0 +1,7 @@
+Ð? bài: Tìm giá tr? l?n nh?t.
+B1: Nh?p các s? a1,a2,a3,..,ai v?i i>n
+B2:a1= amax
+B3: Xét giá tr? amax v?i các s? a2,a3,..ai
+	+N?u amax có giá tr? l?n nh?t: a1= amax
+	+N?u amax có giá tr? nh? hon ai : ai= amax
+B4: K?t thúc.
